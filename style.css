@@ -1,0 +1,17 @@
+body {
+    background-color: #3c414f;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.nav-sort {
+    float: right;
+    display: flex;
+    align-items: flex-end;
+    justify-content: right;
+}
+
